@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RAMtest</string>
+    <string name="title_activity_onboarding">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="loading">Loading...</string>
+    <string name="boost_and_speed">Boost and Speed</string>
+    <string name="flex_cleaner">Flex Cleaner</string>
+    <string name="i_agree_with_privacy_policy_and_terms_of_service">I agree with <b>Privacy Policy</b> and <b>Terms of Service</b></string>
+    <string name="start">START</string>
+</resources>
