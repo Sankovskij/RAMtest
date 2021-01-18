@@ -16,7 +16,7 @@ class OnboardingPresenter(): MvpPresenter<OnboardingView>() {
     }
 
 
-//будем менять сейчас
+
 
 }
 
