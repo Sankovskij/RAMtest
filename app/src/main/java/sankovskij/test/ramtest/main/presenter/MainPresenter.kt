@@ -13,5 +13,8 @@ class MainPresenter(): MvpPresenter<MainView>() {
 
     fun memoryAvailableMegs() = (mi.availMem / 0x100000L).toDouble()
 
+        //буду менять
+    
+
 
 }
